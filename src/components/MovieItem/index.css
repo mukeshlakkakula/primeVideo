@@ -1,0 +1,21 @@
+/* Write your CSS here
+.popupAd {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 10px;
+}
+.trigger-button {
+  padding: 5px;
+  margin: 10px;
+  background-color: transparent;
+  border-style: none;
+  outline: none;
+}
+
+.thumbnailBtn {
+  outline: none;
+  border-style: none;
+  background-color: transparent;
+} */

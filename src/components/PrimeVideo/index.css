@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.primeVideosContainer {
+  background-color: #000000;
+  min-height: 100vh;
+  color: #ffffff;
+}
+
+.slideContainer {
+  padding: 40px;
+}
